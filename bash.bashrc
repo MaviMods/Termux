@@ -5,8 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/qurxin/terminal[1].mp3
 clear
-echo -e "Created By \e[MAVI"
+echo -e "Created By \e[MMAVI"
 echo "----------------------------" | lolcat
 
 echo "MANAVALAN" | lolcat
-figlet 2.0 | lolcat
